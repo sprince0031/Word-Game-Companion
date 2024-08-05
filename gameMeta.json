@@ -1,0 +1,28 @@
+{
+    "wordle": {
+        "url": "https://www.nytimes.com/games/wordle/index.html",
+        "description": "Guess the 5-letter word in 6 tries.",
+        "solverAvailable": false,
+        "helperAvailable": true,
+        "bannerColour": "\u001b[32m"
+    },
+    "strands": {
+        "url": "https://www.nytimes.com/games/strands",
+        "description": "Find hidden words and uncover the day\u2019s theme.",
+        "solverAvailable": false,
+        "helperAvailable": false,
+        "bannerColour": "\u001b[36m"
+    },
+    "letter-boxed": {
+        "url": "https://www.nytimes.com/puzzles/letter-boxed",
+        "description": "Create words using letters around the square.",
+        "solverAvailable": false,
+        "helperAvailable": false,
+        "bannerColour": "\u001b[31m",
+        "allowedBannerFonts": [
+            "pebbles",
+            "computer",
+            "script"
+        ]
+    }
+}
